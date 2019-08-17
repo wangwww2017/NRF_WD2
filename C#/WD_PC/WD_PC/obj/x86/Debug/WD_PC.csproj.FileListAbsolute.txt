@@ -1,0 +1,17 @@
+G:\MCU\Project\NRF_WD\C#\WD_PC\WD_PC\WD_PC\bin\Debug\WD_PC.exe
+G:\MCU\Project\NRF_WD\C#\WD_PC\WD_PC\WD_PC\bin\Debug\WD_PC.pdb
+G:\MCU\Project\NRF_WD\C#\WD_PC\WD_PC\WD_PC\obj\x86\Debug\WD_PC.Form1.resources
+G:\MCU\Project\NRF_WD\C#\WD_PC\WD_PC\WD_PC\obj\x86\Debug\WD_PC.Properties.Resources.resources
+G:\MCU\Project\NRF_WD\C#\WD_PC\WD_PC\WD_PC\obj\x86\Debug\WD_PC.csproj.GenerateResource.Cache
+G:\MCU\Project\NRF_WD\C#\WD_PC\WD_PC\WD_PC\obj\x86\Debug\WD_PC.exe
+G:\MCU\Project\NRF_WD\C#\WD_PC\WD_PC\WD_PC\obj\x86\Debug\WD_PC.pdb
+G:\MCU\Project\NRF_WD\C#\WD_PC\WD_PC\WD_PC\obj\x86\Debug\WD_PC.csprojResolveAssemblyReference.cache
+E:\MCU\Projects\Project\NRF_WD\NRF_WD\C#\WD_PC\WD_PC\bin\Debug\WD_PC.exe.config
+E:\MCU\Projects\Project\NRF_WD\NRF_WD\C#\WD_PC\WD_PC\obj\x86\Debug\WD_PC.exe
+E:\MCU\Projects\Project\NRF_WD\NRF_WD\C#\WD_PC\WD_PC\obj\x86\Debug\WD_PC.pdb
+E:\MCU\Projects\Project\NRF_WD\NRF_WD\C#\WD_PC\WD_PC\bin\Debug\WD_PC.exe
+E:\MCU\Projects\Project\NRF_WD\NRF_WD\C#\WD_PC\WD_PC\bin\Debug\WD_PC.pdb
+E:\MCU\Projects\Project\NRF_WD\NRF_WD\C#\WD_PC\WD_PC\obj\x86\Debug\WD_PC.csprojResolveAssemblyReference.cache
+E:\MCU\Projects\Project\NRF_WD\NRF_WD\C#\WD_PC\WD_PC\obj\x86\Debug\WD_PC.Form1.resources
+E:\MCU\Projects\Project\NRF_WD\NRF_WD\C#\WD_PC\WD_PC\obj\x86\Debug\WD_PC.Properties.Resources.resources
+E:\MCU\Projects\Project\NRF_WD\NRF_WD\C#\WD_PC\WD_PC\obj\x86\Debug\WD_PC.csproj.GenerateResource.Cache

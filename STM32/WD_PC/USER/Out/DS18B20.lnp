@@ -1,0 +1,5 @@
+--cpu Cortex-M3 ".\out\main.o" ".\out\stm32f10x_it.o" ".\out\system_stm32f10x.o" ".\out\led.o" ".\out\key.o" ".\out\wdg.o" ".\out\timer.o" ".\out\pwm.o" ".\out\lcd.o" ".\out\wkup.o" ".\out\adc.o" ".\out\tsensor.o" ".\out\myiic.o" ".\out\24cxx.o" ".\out\spi.o" ".\out\flash.o" ".\out\ds18b20.o" ".\out\delay.o" ".\out\sys.o" ".\out\usart.o" ".\out\core_cm3.o" ".\out\startup_stm32f10x_md.o" ".\out\misc.o" ".\out\stm32f10x_adc.o" ".\out\stm32f10x_bkp.o" ".\out\stm32f10x_can.o" ".\out\stm32f10x_cec.o" ".\out\stm32f10x_crc.o" ".\out\stm32f10x_dac.o" ".\out\stm32f10x_dbgmcu.o" ".\out\stm32f10x_dma.o" ".\out\stm32f10x_exti.o" ".\out\stm32f10x_flash.o" ".\out\stm32f10x_fsmc.o" ".\out\stm32f10x_gpio.o" ".\out\stm32f10x_i2c.o" ".\out\stm32f10x_iwdg.o" ".\out\stm32f10x_pwr.o" ".\out\stm32f10x_rcc.o" ".\out\stm32f10x_rtc.o" ".\out\stm32f10x_sdio.o" ".\out\stm32f10x_spi.o" ".\out\stm32f10x_tim.o" ".\out\stm32f10x_usart.o" ".\out\stm32f10x_wwdg.o" 
+--strict --scatter ".\Out\DS18B20.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\DS18B20.map" -o .\Out\DS18B20.axf
